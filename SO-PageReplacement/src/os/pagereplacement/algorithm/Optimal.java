@@ -5,7 +5,7 @@ package os.pagereplacement.algorithm;
  * solicitadas. Sua implementação consiste em substituir a página que será referenciada o mais adiante possível a partir da página corrente
  * na cadeia.
  * 
- * @author Rafael Sales - rafaelcds@gmail.com
+ * 
  */
 public class Optimal extends ReplacementAlgorithm {
 
